@@ -2,8 +2,8 @@ name: deploy-contianer
 
 on:
   push:
-#     branches:
-#       - master
+    branches:
+      - master
 #     paths: 
 #       - 'packages/container/**'
 
