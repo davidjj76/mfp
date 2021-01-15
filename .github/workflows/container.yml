@@ -1,7 +1,7 @@
 name: deploy-contianer
 
-on: [ push ]
-#   push:
+on:
+  push:
 #     branches:
 #       - master
 #     paths: 
